@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+
+# By default, keep the archived example run in data/ tracked.
+# If you re-run the script into a different output dir, ignore it here, e.g.:
+# /out/
