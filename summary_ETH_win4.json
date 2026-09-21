@@ -1,0 +1,191 @@
+{
+  "label": "ETH win4",
+  "ticker": "KXETHPERP",
+  "start": "2026-09-20T06:23:00Z",
+  "end": "2026-09-20T23:18:00Z",
+  "duration_hours": 16.916666666666668,
+  "total_prints": 30011,
+  "total_notional_usd": 119497010.6773,
+  "top_clips": [
+    {
+      "clip_$": 5498,
+      "prints": 3987,
+      "contracts": 8419937.0,
+      "notional_$": 21920541.49,
+      "%prt": 13.285,
+      "%notl": 18.344,
+      "loop_%": 77.68
+    },
+    {
+      "clip_$": 5499,
+      "prints": 3892,
+      "contracts": 8220070.0,
+      "notional_$": 21402143.8,
+      "%prt": 12.969,
+      "%notl": 17.91,
+      "loop_%": 76.95
+    },
+    {
+      "clip_$": 5500,
+      "prints": 2070,
+      "contracts": 4374237.0,
+      "notional_$": 11384504.34,
+      "%prt": 6.897,
+      "%notl": 9.527,
+      "loop_%": 65.46
+    },
+    {
+      "clip_$": 75099,
+      "prints": 32,
+      "contracts": 918498.0,
+      "notional_$": 2403167.19,
+      "%prt": 0.107,
+      "%notl": 2.011,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 75098,
+      "prints": 31,
+      "contracts": 891559.0,
+      "notional_$": 2328037.87,
+      "%prt": 0.103,
+      "%notl": 1.948,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 5497,
+      "prints": 378,
+      "contracts": 795563.0,
+      "notional_$": 2078019.38,
+      "%prt": 1.26,
+      "%notl": 1.739,
+      "loop_%": 28.84
+    },
+    {
+      "clip_$": 75601,
+      "prints": 21,
+      "contracts": 608661.0,
+      "notional_$": 1587619.81,
+      "%prt": 0.07,
+      "%notl": 1.329,
+      "loop_%": 9.52
+    },
+    {
+      "clip_$": 75100,
+      "prints": 21,
+      "contracts": 603572.0,
+      "notional_$": 1577094.91,
+      "%prt": 0.07,
+      "%notl": 1.32,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 75600,
+      "prints": 15,
+      "contracts": 435785.0,
+      "notional_$": 1133999.47,
+      "%prt": 0.05,
+      "%notl": 0.949,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 75599,
+      "prints": 13,
+      "contracts": 376479.0,
+      "notional_$": 982787.68,
+      "%prt": 0.043,
+      "%notl": 0.822,
+      "loop_%": 15.38
+    },
+    {
+      "clip_$": 499785,
+      "prints": 1,
+      "contracts": 194001.0,
+      "notional_$": 499785.38,
+      "%prt": 0.003,
+      "%notl": 0.418,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 407835,
+      "prints": 1,
+      "contracts": 154191.0,
+      "notional_$": 407835.2,
+      "%prt": 0.003,
+      "%notl": 0.341,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 1999,
+      "prints": 195,
+      "contracts": 149400.0,
+      "notional_$": 389818.99,
+      "%prt": 0.65,
+      "%notl": 0.326,
+      "loop_%": 86.15
+    },
+    {
+      "clip_$": 76847,
+      "prints": 5,
+      "contracts": 146116.0,
+      "notional_$": 384234.48,
+      "%prt": 0.017,
+      "%notl": 0.322,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 2640,
+      "prints": 131,
+      "contracts": 130999.0,
+      "notional_$": 345818.86,
+      "%prt": 0.437,
+      "%notl": 0.289,
+      "loop_%": 96.95
+    },
+    {
+      "clip_$": 29998,
+      "prints": 11,
+      "contracts": 125380.0,
+      "notional_$": 329977.69,
+      "%prt": 0.037,
+      "%notl": 0.276,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 76846,
+      "prints": 4,
+      "contracts": 118270.0,
+      "notional_$": 307383.49,
+      "%prt": 0.013,
+      "%notl": 0.257,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 76906,
+      "prints": 4,
+      "contracts": 118352.0,
+      "notional_$": 307623.92,
+      "%prt": 0.013,
+      "%notl": 0.257,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 76845,
+      "prints": 4,
+      "contracts": 116934.0,
+      "notional_$": 307380.62,
+      "%prt": 0.013,
+      "%notl": 0.257,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 255398,
+      "prints": 1,
+      "contracts": 99315.0,
+      "notional_$": 255398.45,
+      "%prt": 0.003,
+      "%notl": 0.214,
+      "loop_%": 0.0
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "label": "BTC win1",
+  "ticker": "KXBTCPERP",
+  "start": "2026-09-20T16:23:00Z",
+  "end": "2026-09-20T23:17:00Z",
+  "duration_hours": 6.9,
+  "total_prints": 30074,
+  "total_notional_usd": 75330093.8517,
+  "top_clips": [
+    {
+      "clip_$": 2499,
+      "prints": 984,
+      "contracts": 303318.0,
+      "notional_$": 2458972.9,
+      "%prt": 3.272,
+      "%notl": 3.264,
+      "loop_%": 86.69
+    },
+    {
+      "clip_$": 4997,
+      "prints": 449,
+      "contracts": 276717.0,
+      "notional_$": 2243655.84,
+      "%prt": 1.493,
+      "%notl": 2.978,
+      "loop_%": 71.49
+    },
+    {
+      "clip_$": 2498,
+      "prints": 873,
+      "contracts": 269094.0,
+      "notional_$": 2180790.75,
+      "%prt": 2.903,
+      "%notl": 2.895,
+      "loop_%": 88.43
+    },
+    {
+      "clip_$": 4998,
+      "prints": 376,
+      "contracts": 231688.0,
+      "notional_$": 1879248.68,
+      "%prt": 1.25,
+      "%notl": 2.495,
+      "loop_%": 69.15
+    },
+    {
+      "clip_$": 4995,
+      "prints": 337,
+      "contracts": 207616.0,
+      "notional_$": 1683310.88,
+      "%prt": 1.121,
+      "%notl": 2.235,
+      "loop_%": 64.09
+    },
+    {
+      "clip_$": 4994,
+      "prints": 333,
+      "contracts": 205142.0,
+      "notional_$": 1663004.28,
+      "%prt": 1.107,
+      "%notl": 2.208,
+      "loop_%": 68.47
+    },
+    {
+      "clip_$": 4996,
+      "prints": 329,
+      "contracts": 202764.0,
+      "notional_$": 1643685.81,
+      "%prt": 1.094,
+      "%notl": 2.182,
+      "loop_%": 70.82
+    },
+    {
+      "clip_$": 4993,
+      "prints": 317,
+      "contracts": 195300.0,
+      "notional_$": 1582781.88,
+      "%prt": 1.054,
+      "%notl": 2.101,
+      "loop_%": 72.24
+    },
+    {
+      "clip_$": 2493,
+      "prints": 619,
+      "contracts": 190207.0,
+      "notional_$": 1543141.53,
+      "%prt": 2.058,
+      "%notl": 2.049,
+      "loop_%": 85.46
+    },
+    {
+      "clip_$": 4999,
+      "prints": 300,
+      "contracts": 184987.0,
+      "notional_$": 1499698.27,
+      "%prt": 0.998,
+      "%notl": 1.991,
+      "loop_%": 72.67
+    },
+    {
+      "clip_$": 2497,
+      "prints": 569,
+      "contracts": 175400.0,
+      "notional_$": 1420832.03,
+      "%prt": 1.892,
+      "%notl": 1.886,
+      "loop_%": 85.24
+    },
+    {
+      "clip_$": 2492,
+      "prints": 517,
+      "contracts": 158940.0,
+      "notional_$": 1288451.01,
+      "%prt": 1.719,
+      "%notl": 1.71,
+      "loop_%": 84.72
+    },
+    {
+      "clip_$": 2494,
+      "prints": 454,
+      "contracts": 139503.0,
+      "notional_$": 1132277.59,
+      "%prt": 1.51,
+      "%notl": 1.503,
+      "loop_%": 89.65
+    },
+    {
+      "clip_$": 2500,
+      "prints": 419,
+      "contracts": 129195.0,
+      "notional_$": 1047403.84,
+      "%prt": 1.393,
+      "%notl": 1.39,
+      "loop_%": 83.05
+    },
+    {
+      "clip_$": 2495,
+      "prints": 401,
+      "contracts": 123252.0,
+      "notional_$": 1000496.49,
+      "%prt": 1.333,
+      "%notl": 1.328,
+      "loop_%": 91.52
+    },
+    {
+      "clip_$": 99997,
+      "prints": 10,
+      "contracts": 123296.0,
+      "notional_$": 999968.48,
+      "%prt": 0.033,
+      "%notl": 1.327,
+      "loop_%": 70.0
+    },
+    {
+      "clip_$": 4992,
+      "prints": 170,
+      "contracts": 104706.0,
+      "notional_$": 848665.29,
+      "%prt": 0.565,
+      "%notl": 1.127,
+      "loop_%": 58.24
+    },
+    {
+      "clip_$": 5000,
+      "prints": 161,
+      "contracts": 99294.0,
+      "notional_$": 804960.79,
+      "%prt": 0.535,
+      "%notl": 1.069,
+      "loop_%": 65.22
+    },
+    {
+      "clip_$": 75099,
+      "prints": 9,
+      "contracts": 83403.0,
+      "notional_$": 675890.64,
+      "%prt": 0.03,
+      "%notl": 0.897,
+      "loop_%": 0.0
+    },
+    {
+      "clip_$": 2496,
+      "prints": 217,
+      "contracts": 66860.0,
+      "notional_$": 541639.54,
+      "%prt": 0.722,
+      "%notl": 0.719,
+      "loop_%": 90.78
+    }
+  ]
+}
