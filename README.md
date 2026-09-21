@@ -1,4 +1,4 @@
-# kalshi-clip-anomaly
+# Kalshi clip anomaly
 
 A tool for detecting trade-size concentration on Kalshi's perpetual futures
 markets (PERPs). It pulls the public trade tape for a market and checks
@@ -12,7 +12,7 @@ of a broader public discussion around crypto perpetuals volume reporting in
 2026. This repo provides an independent, reproducible way to pull the
 numbers yourself from Kalshi's public API and check them.
 
-⚠️ **This is a descriptive/statistical tool, not a verdict.** A high
+**This is a descriptive/statistical tool, not a verdict.** A high
 concentration on one clip size, even with a high burst rate, is not proof of
 wash trading by itself. It can also arise from legitimate algorithmic
 market-making with a fixed dollar target. The script reports the numbers;
