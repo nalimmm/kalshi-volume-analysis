@@ -1,8 +1,7 @@
 # Kalshi clip anomaly
 
-A tool for detecting trade-size concentration on Kalshi's perpetual futures
-markets (PERPs). It pulls the public trade tape for a market and checks
-whether a small number of identical notional trade sizes ("clips") account
+This repo serves as a tool for detecting trade-size concentration on Kalshi's PERPs. 
+It pulls the public trade tape for a market and checks whether a small number of identical notional trade sizes ("clips") account
 for a disproportionate share of total volume, a pattern that can indicate
 algorithmic market-making with a fixed lot size, or, at the more extreme
 end, artificially inflated volume.
